@@ -25,29 +25,8 @@
 
 ### 🛠️ Tech Stack & Ecosystem
 
-**Data, AI & Backend**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
-</p>
-
-**Frontend & Web**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=646CFF" />
-  <img src="https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3E67B1" />
-</p>
-
-**Workflow & Quality**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge&logo=codefactor&logoColor=00E5FF" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,java,spring,mysql,python,git" />
 </p>
 
 ---
