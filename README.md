@@ -50,8 +50,8 @@
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DanniaLima&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanniaLima&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=DanniaLima&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=DanniaLima&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
