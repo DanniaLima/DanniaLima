@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30&height=120&section=header" width="100%" />
 <div align="center">
   <h1>Hi there, I'm Dannia Lima 👋</h1>
   
@@ -48,3 +49,4 @@
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/DanniaLima/DanniaLima/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,30&height=3" width="100%" />
