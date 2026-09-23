@@ -27,7 +27,7 @@
 ### 🛠️ Tech Stack & Ecosystem
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,java,spring,mysql,python,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,java,spring,postgres,python,git" />
 </p>
 
 ---
