@@ -3,11 +3,15 @@
   <h1>Hi there, I'm Dannia Lima 👋</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&height=50&lines=Junior+Data+Analyst+%26+AI+Developer;Aspiring+Full-Stack+%26+Backend+Dev;ITS+Mario+Volpato+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&height=50&lines=Junior+Web+Developer;Frontend+%C2%B7+Backend+%C2%B7+Data+%26+AI" alt="Typing SVG" />
   </a>
 
-  <p><i>Combining analytical rigor from Data & AI with modern software engineering principles.</i></p>
+  <p><i>I build web applications combining modern technologies, data and artificial intelligence.</i></p>
 
+  <a href="https://dannialima.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  
   <a href="https://www.linkedin.com/in/dannialima/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -17,10 +21,10 @@
 
 ### 👤 About Me
 
-- 🎓 **Education:** Specializing as a **Junior Data Analyst & AI Developer** at *ITS Mario Volpato* (Italy).
-- 💻 **Software Focus:** Expanding into Full-Stack & Backend development (**Java, React, TypeScript**).
-- ⚙️ **Methodology:** Passionate about **Clean Code**, **SOLID** principles, and structured Git workflows.
-- 🎯 **Current Target:** Deepening backend architecture with **Spring Boot**.
+- 🎓 **Education:** Studying *Artificial Intelligence Developer & Data Analyst* at *ITS Mario Volpato* (Italy).
+- 💻 **Software Focus:** Junior web developer across frontend (**React, TypeScript**) and backend (**Java, Spring Boot**), with a Data & AI background.
+- ⚙️ **Methodology:** Object-oriented programming and version control with Git and GitHub.
+- 🎯 **Current Target:** Growing as a web developer, turning ideas into concrete digital solutions.
 
 ---
 
